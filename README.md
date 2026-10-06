@@ -8,5 +8,4 @@ Esse repositório destina-se ao armazenamento de exercícios práticos realizado
  
 ## Autor
 
-[EmanuelMEdeiro](https://github.com/EmanuelMedeiros2010
-)
+[EmanuelMEdeiro](https://github.com/EmanuelMedeiros2010)
